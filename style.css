@@ -3,3 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #f7f7f7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fiche-note{
+    background-color: #fff;
+    width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+    color: #6e6e7a;
+}
+
+h1{
+    padding-bottom: 20px;    
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.titre{
+    color: #fd77fd;
+    display: block;
+}
